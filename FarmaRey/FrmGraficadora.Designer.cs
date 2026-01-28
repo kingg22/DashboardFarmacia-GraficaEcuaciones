@@ -1,4 +1,4 @@
-﻿namespace GraficaFuncionesMath
+namespace GraficaFuncionesMath
 {
     partial class FrmGraficadora
     {

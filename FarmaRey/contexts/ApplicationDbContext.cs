@@ -1,4 +1,4 @@
-﻿using FarmaRey.models;
+using FarmaRey.models;
 using Microsoft.EntityFrameworkCore;
 
 namespace FarmaRey.contexts

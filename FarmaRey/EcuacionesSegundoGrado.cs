@@ -1,4 +1,4 @@
-﻿using OxyPlot;
+using OxyPlot;
 
 namespace GraficaFuncionesMath
 {

@@ -1,4 +1,4 @@
-﻿using GraficaFuncionesMath;
+using GraficaFuncionesMath;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace FarmaRey

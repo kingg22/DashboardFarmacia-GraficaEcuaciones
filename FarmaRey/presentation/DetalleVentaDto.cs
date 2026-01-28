@@ -1,4 +1,4 @@
-﻿namespace FarmaRey.presentation
+namespace FarmaRey.presentation
 {
     internal class DetalleVentaDto
     {

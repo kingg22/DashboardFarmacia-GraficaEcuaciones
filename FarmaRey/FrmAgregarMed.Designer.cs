@@ -1,4 +1,4 @@
-﻿namespace FarmaRey
+namespace FarmaRey
 {
     partial class FrmAgregarMed
     {

@@ -1,4 +1,4 @@
-﻿using FarmaRey.models;
+using FarmaRey.models;
 
 namespace FarmaRey
 {
